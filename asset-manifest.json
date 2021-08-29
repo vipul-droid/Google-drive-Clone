@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Google-drive-Clone/static/css/main.aa487c19.chunk.css",
+    "main.js": "/Google-drive-Clone/static/js/main.ee4a61f7.chunk.js",
+    "main.js.map": "/Google-drive-Clone/static/js/main.ee4a61f7.chunk.js.map",
+    "runtime-main.js": "/Google-drive-Clone/static/js/runtime-main.f0106aba.js",
+    "runtime-main.js.map": "/Google-drive-Clone/static/js/runtime-main.f0106aba.js.map",
+    "static/js/2.f8634310.chunk.js": "/Google-drive-Clone/static/js/2.f8634310.chunk.js",
+    "static/js/2.f8634310.chunk.js.map": "/Google-drive-Clone/static/js/2.f8634310.chunk.js.map",
+    "index.html": "/Google-drive-Clone/index.html",
+    "static/css/main.aa487c19.chunk.css.map": "/Google-drive-Clone/static/css/main.aa487c19.chunk.css.map",
+    "static/js/2.f8634310.chunk.js.LICENSE.txt": "/Google-drive-Clone/static/js/2.f8634310.chunk.js.LICENSE.txt",
+    "static/media/Google-Drive-Logo.0278ae3a.png": "/Google-drive-Clone/static/media/Google-Drive-Logo.0278ae3a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0106aba.js",
+    "static/js/2.f8634310.chunk.js",
+    "static/css/main.aa487c19.chunk.css",
+    "static/js/main.ee4a61f7.chunk.js"
+  ]
+}
